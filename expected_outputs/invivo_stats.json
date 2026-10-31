@@ -1,0 +1,52 @@
+{
+  "total": 498,
+  "platform": {
+    "Ctrip": 404,
+    "Xiaohongshu": 94
+  },
+  "sentiment": {
+    "正面": 176,
+    "中性": 235,
+    "负面": 87
+  },
+  "neg_count": 87,
+  "filter_count": 23,
+  "coding_subset_N": 102,
+  "overlap_neg_and_filter": 8,
+  "line_counts": {
+    "AI修图/精修图": 6,
+    "网上视频/成群鸽子": 2,
+    "P上去的": 1,
+    "原片与成片不像": 3,
+    "纸片人/磨皮": 2,
+    "排队": 12,
+    "动线/混乱/态度": 6,
+    "人山人海/人从众": 5,
+    "节假日(十一/国庆/春节)": 6,
+    "强买强卖/被宰/宰客": 6,
+    "再也不来/避雷/大冤种/避坑": 17,
+    "失望": 11,
+    "门票/定价(160/票价/小吃贵)": 8,
+    "性价比/不划算/不值": 5
+  },
+  "dimension_union": {
+    "visual": 9,
+    "service": 24,
+    "emotional": 26,
+    "price": 12
+  },
+  "platform_x_dimension": {
+    "Ctrip": {
+      "visual": 0,
+      "service": 13,
+      "emotional": 9,
+      "price": 12
+    },
+    "Xiaohongshu": {
+      "visual": 9,
+      "service": 11,
+      "emotional": 17,
+      "price": 0
+    }
+  }
+}

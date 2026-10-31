@@ -1,0 +1,20 @@
+# Sample input corpus — FORMAT REFERENCE ONLY (synthetic, NOT real UGC)
+#
+# This file demonstrates the input format expected by the scripts:
+#   - one UGC record per line
+#   - Chinese travel content
+#   - identifying fields (date, IP, usernames, like counts, section headers)
+#     are stripped, exactly as done in the real corpus before analysis
+#
+# It is SYNTHETIC (not taken from Ctrip/Xiaohongshu) so that no real
+# user-generated content is redistributed with this repository. Running the
+# scripts against it will NOT reproduce the published numbers — it is for
+# illustrating the pipeline only. To reproduce Tables 1-3, point the scripts
+# at the full de-identified corpus (see corpus/README.txt).
+
+南京中山陵的梧桐大道很美，拍照出片，推荐
+夫子庙小吃有点贵，性价比一般，人太多排队久
+小红书上原片看着很美，实际景区人多，有点失望
+牛首山门票160，价格偏贵，节假日体验崩塌
+红山动物园很可爱，出片，值得去
+这个滤镜图跟实际差很多，照骗，避雷

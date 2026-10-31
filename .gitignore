@@ -1,0 +1,18 @@
+# Raw UGC corpus is NOT redistributed (source-platform terms of service).
+# Keep it local for running the scripts; it must never be committed.
+corpus/_user_reviews.txt
+corpus/*.txt
+!corpus/README.txt
+
+# Generated outputs — reproducible on demand, not part of the package.
+outputs/*
+!outputs/.gitkeep
+
+# Python / editor noise
+__pycache__/
+*.pyc
+.DS_Store
+
+# Allow the human-readable notes and sample only.
+!corpus/README.txt
+!sample_corpus/

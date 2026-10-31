@@ -1,0 +1,82 @@
+{
+  "历史文化/古迹": {
+    "n": 144,
+    "dist": {
+      "positive": 74,
+      "neutral": 44,
+      "negative": 26
+    },
+    "dominant": "positive",
+    "dominant_share": 51.4
+  },
+  "自然景观/生态": {
+    "n": 89,
+    "dist": {
+      "positive": 49,
+      "neutral": 24,
+      "negative": 16
+    },
+    "dominant": "positive",
+    "dominant_share": 55.1
+  },
+  "美食/小吃": {
+    "n": 83,
+    "dist": {
+      "positive": 34,
+      "neutral": 20,
+      "negative": 29
+    },
+    "dominant": "positive",
+    "dominant_share": 41.0
+  },
+  "网红打卡/拍照": {
+    "n": 132,
+    "dist": {
+      "positive": 77,
+      "neutral": 33,
+      "negative": 22
+    },
+    "dominant": "positive",
+    "dominant_share": 58.3
+  },
+  "价格/性价比": {
+    "n": 106,
+    "dist": {
+      "positive": 33,
+      "neutral": 29,
+      "negative": 44
+    },
+    "dominant": "negative",
+    "dominant_share": 41.5
+  },
+  "拥挤/人流": {
+    "n": 157,
+    "dist": {
+      "positive": 63,
+      "neutral": 48,
+      "negative": 46
+    },
+    "dominant": "positive",
+    "dominant_share": 40.1
+  },
+  "交通/设施": {
+    "n": 58,
+    "dist": {
+      "positive": 27,
+      "neutral": 6,
+      "negative": 25
+    },
+    "dominant": "positive",
+    "dominant_share": 46.6
+  },
+  "服务质量/管理": {
+    "n": 132,
+    "dist": {
+      "positive": 58,
+      "neutral": 39,
+      "negative": 35
+    },
+    "dominant": "positive",
+    "dominant_share": 43.9
+  }
+}
